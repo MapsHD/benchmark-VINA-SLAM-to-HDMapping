@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>vina_slam_to_hdmapping</name>
+  <version>0.0.1</version>
+  <description>Convert VINA-SLAM's saved trajectory and per-frame point clouds to HDMapping session format</description>
+  <maintainer email="januszbedkowski@gmail.com">Janusz Bedkowski</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
