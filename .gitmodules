@@ -1,0 +1,12 @@
+[submodule "src/VINA-SLAM"]
+	path = src/VINA-SLAM
+	url = https://github.com/SheepYang666/VINA-SLAM.git
+[submodule "src/Livox-SDK2"]
+	path = src/Livox-SDK2
+	url = https://github.com/Livox-SDK/Livox-SDK2.git
+[submodule "src/livox_ros_driver2"]
+	path = src/livox_ros_driver2
+	url = https://github.com/Livox-SDK/livox_ros_driver2.git
+[submodule "src/vina-slam-to-hdmapping/src/3rdparty/LASzip"]
+	path = src/vina-slam-to-hdmapping/src/3rdparty/LASzip
+	url = https://github.com/LASzip/LASzip.git
